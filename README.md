@@ -2,6 +2,8 @@
 
 This Power BI report provides a comprehensive analysis of the Indian general election results for the years 2014, 2019, and 2024. The report offers valuable insights into the performance of major political parties, seat distributions, vote shares, and other key metrics.
 
+![Dashboard Image](Images/Dashboard.png)
+
 ## Features
 <li><b>Seat Distribution:</b> Visualize the number of seats won by each major political party in the elections of 2014, 2019, and 2024.
 <li><b>Vote Share Analysis:</b> Explore the total votes received by the top parties, including the Bharatiya Janata Party (BJP), Indian National Congress (INC), and others.

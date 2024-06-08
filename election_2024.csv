@@ -1,0 +1,544 @@
+﻿Const. No.,Constituency,Leading Candidate,Leading Party,Margin,Party Category,Status,Trailing Candidate,Trailing Party
+1,Adilabad,GODAM NAGESH,Bharatiya Janata Party,90652,BJP,Result Declared,ATHRAM SUGUNA,Indian National Congress
+1,AMBALA,VARUN CHAUDHRY,Indian National Congress,49036,INC,Result Declared,BANTO KATARIA,Bharatiya Janata Party
+1,Andaman & Nicobar Islands,BISHNU PADA RAY,Bharatiya Janata Party,24396,BJP,Result Declared,KULDEEP RAI SHARMA,Indian National Congress
+1,Araku (ST),GUMMA THANUJA RANI,Yuvajana Sramika Rythu Congress Party,50580,Other,Result Declared,KOTHAPALLI GEETHA,Bharatiya Janata Party
+1,Arunachal West,KIREN RIJIJU,Bharatiya Janata Party,100738,BJP,Result Declared,NABAM TUKI,Indian National Congress
+1,BARAMULLA,ABDUL RASHID SHEIKH,Independent,204142,Other,Result Declared,OMAR ABDULLAH,Jammu & Kashmir National Conference
+1,Bargarh,PRADEEP PUROHIT,Bharatiya Janata Party,251667,BJP,Result Declared,PARINITA MISHRA,Biju Janata Dal
+1,Chandigarh,MANISH TEWARI,Indian National Congress,2504,INC,Result Declared,SANJAY TANDON,Bharatiya Janata Party
+1,Chandni Chowk,PRAVEEN KHANDELWAL,Bharatiya Janata Party,89325,BJP,Result Declared,JAI PRAKASH AGARWAL,Indian National Congress
+1,Chikkodi,PRIYANKA SATISH JARKIHOLI,Indian National Congress,90834,INC,Result Declared,ANNASAHEB SHANKAR JOLLE,Bharatiya Janata Party
+1,Coochbehar,JAGADISH CHANDRA BARMA BASUNIA,All India Trinamool Congress,39250,Other,Result Declared,NISITH PRAMANIK,Bharatiya Janata Party
+1,Daman & Diu,PATEL UMESHBHAI BABUBHAI,Independent,6225,Other,Result Declared,LALUBHAI BABUBHAI PATEL,Bharatiya Janata Party
+1,GANGANAGAR,KULDEEP INDORA,Indian National Congress,88153,INC,Result Declared,PRIYANKA BALAN MEGHWAL,Bharatiya Janata Party
+1,Gurdaspur,SUKHJINDER SINGH RANDHAWA,Indian National Congress,82861,INC,Result Declared,DINESH SINGH BABBU,Bharatiya Janata Party
+1,Inner Manipur,ANGOMCHA BIMOL AKOIJAM,Indian National Congress,109801,INC,Result Declared,THOUNAOJAM BASANTA KUMAR SINGH,Bharatiya Janata Party
+1,Kachchh,CHAVDA VINOD LAKHAMSHI,Bharatiya Janata Party,268782,BJP,Result Declared,NITESH PARBATBHAI LALAN (MATANG),Indian National Congress
+1,KANGRA,DR RAJEEV BHARDWAJ,Bharatiya Janata Party,251895,BJP,Result Declared,ANAND SHARMA,Indian National Congress
+1,Kasaragod,RAJMOHAN UNNITHAN,Indian National Congress,100649,INC,Result Declared,M.V BALAKRISHNAN MASTER,Communist Party of India (Marxist)
+1,Kokrajhar,JOYANTA BASUMATARY,"United People’s Party, Liberal",51583,Other,Result Declared,KAMPA BORGOYARI,Bodoland Peoples Front
+1,Ladakh,MOHMAD HANEEFA,Independent,27862,Other,Result Declared,TSERING NAMGYAL,Indian National Congress
+1,Lakshadweep,MUHAMMED HAMDULLAH SAYEED,Indian National Congress,2647,INC,Result Declared,MOHAMMED FAIZAL PP,Nationalist Congress Party – Sharadchandra Pawar
+1,MIZORAM,RICHARD VANLALHMANGAIHA,Zoram People’s Movement,68288,Other,Result Declared,K VANLALVENA,Mizo National Front
+1,MORENA,SHIVMANGAL SINGH TOMAR,Bharatiya Janata Party,52530,BJP,Result Declared,NEETU SATYAPAL SINGH SIKARWAR,Indian National Congress
+1,Nagaland,S SUPONGMEREN JAMIR,Indian National Congress,50984,INC,Result Declared,DR CHUMBEN MURRY,Nationalist Democratic Progressive Party
+1,Nandurbar,ADV GOWAAL KAGADA PADAVI,Indian National Congress,159120,INC,Result Declared,DR HEENA VIJAYKUMAR GAVIT,Bharatiya Janata Party
+1,North Goa,SHRIPAD YESSO NAIK,Bharatiya Janata Party,116015,BJP,Result Declared,RAMAKANT KHALAP,Indian National Congress
+1,PUDUCHERRY,VE VAITHILINGAM,Indian National Congress,136516,INC,Result Declared,A NAMASSIVAYAM,Bharatiya Janata Party
+1,Rajmahal,VIJAY KUMAR HANSDAK,Jharkhand Mukti Morcha,178264,Other,Result Declared,TALA MARANDI,Bharatiya Janata Party
+1,Saharanpur,IMRAN MASOOD,Indian National Congress,64542,INC,Result Declared,RAGHAV LAKHANPAL,Bharatiya Janata Party
+1,Shillong,DR. RICKY ANDREW J. SYNGKON,Voice of the People Party,371910,Other,Result Declared,VINCENT H. PALA,Indian National Congress
+1,Sikkim,INDRA HANG SUBBA,Sikkim Krantikari Morcha,80830,Other,Result Declared,BHARAT BASNETT,Citizen Action Party-Sikkim
+1,SURGUJA,CHINTAMANI MAHARAJ,Bharatiya Janata Party,64822,BJP,Result Declared,SHASHI SINGH KORAM,Indian National Congress
+1,Tehri Garhwal,MALA RAJYA LAKSHMI SHAH,Bharatiya Janata Party,272493,BJP,Result Declared,JOT SINGH GUNSOLA,Indian National Congress
+1,TIRUVALLUR,Sasikanth Senthil,Indian National Congress,572155,INC,Result Declared,"Balaganapathy, V. Pon",Bharatiya Janata Party
+1,Tripura West,BIPLAB KUMAR DEB,Bharatiya Janata Party,611578,BJP,Result Declared,ASISH KUMAR SAHA,Indian National Congress
+1,Valmiki Nagar,SUNIL KUMAR,Janata Dal (United),98675,Other,Result Declared,DEEPAK YADAV,Rashtriya Janata Dal
+2,Alipurduars,MANOJ TIGGA,Bharatiya Janata Party,75447,BJP,Result Declared,PRAKASH CHIK BARAIK,All India Trinamool Congress
+2,Amritsar,GURJEET SINGH AUJLA,Indian National Congress,40301,INC,Result Declared,KULDEEP SINGH DHALIWAL,Aam Aadmi Party
+2,Arunachal East,TAPIR GAO,Bharatiya Janata Party,30421,BJP,Result Declared,BOSIRAM SIRAM,Indian National Congress
+2,Banaskantha,GENIBEN NAGAJI THAKOR,Indian National Congress,30406,INC,Result Declared,DR. REKHABEN HITESHBHAI CHAUDHARI,Bharatiya Janata Party
+2,Belgaum,JAGADISH SHETTAR,Bharatiya Janata Party,178437,BJP,Result Declared,MRINAL R HEBBALKAR,Indian National Congress
+2,BHIND,SANDHYA RAY,Bharatiya Janata Party,64840,BJP,Result Declared,PHOOL SINGH BARAIYA,Indian National Congress
+2,BIKANER,ARJUN RAM MEGHWAL,Bharatiya Janata Party,55711,BJP,Result Declared,GOVINDRAM MEGHWAL,Indian National Congress
+2,CHENNAI NORTH,DR.KALANIDHI VEERASWAMY,Dravida Munnetra Kazhagam,339222,Other,Result Declared,R. MANOHAR,All India Anna Dravida Munnetra Kazhagam
+2,Dadar & Nagar Haveli,DELKAR KALABEN MOHANBHAI,Bharatiya Janata Party,57584,BJP,Result Declared,AJIT RAMJIBHAI MAHALA,Indian National Congress
+2,Dhubri,RAKIBUL HUSSAIN,Indian National Congress,1012476,INC,Result Declared,MOHAMMED BADRUDDIN AJMAL,All India United Democratic Front
+2,Dhule,BACHHAV SHOBHA DINESH,Indian National Congress,3831,INC,Result Declared,BHAMRE SUBHASH RAMRAO,Bharatiya Janata Party
+2,Dumka,NALIN SOREN,Jharkhand Mukti Morcha,22527,Other,Result Declared,SITA MURMU,Bharatiya Janata Party
+2,Garhwal,ANIL BALUNI,Bharatiya Janata Party,163503,BJP,Result Declared,GANESH GODIYAL,Indian National Congress
+2,Kairana,IQRA CHOUDHARY,Samajwadi Party,69116,Other,Result Declared,PRADEEP KUMAR,Bharatiya Janata Party
+2,Kannur,K. SUDHAKARAN,Indian National Congress,108982,INC,Result Declared,M.V. JAYARAJAN,Communist Party of India (Marxist)
+2,KURUKSHETRA,NAVEEN JINDAL,Bharatiya Janata Party,29021,BJP,Result Declared,DR SUSHIL GUPTA,Aam Aadmi Party
+2,MANDI,KANGNA RANAUT,Bharatiya Janata Party,74755,BJP,Result Declared,VIKRAMADITYA SINGH,Indian National Congress
+2,North-East Delhi,MANOJ TIWARI,Bharatiya Janata Party,138778,BJP,Result Declared,KANHAIYA KUMAR,Indian National Congress
+2,Outer Manipur,ALFRED KANNGAM S ARTHUR,Indian National Congress,85418,INC,Result Declared,KACHUI TIMOTHY ZIMIK,Naga Peoples Front
+2,Paschim Champaran,DR.SANJAY JAISWAL,Bharatiya Janata Party,136568,BJP,Result Declared,MADAN MOHAN TIWARI,Indian National Congress
+2,Peddapalle,VAMSI KRISHNA GADDAM,Indian National Congress,131364,INC,Result Declared,SRINIVAS GOMASE,Bharatiya Janata Party
+2,RAIGARH,RADHESHYAM RATHIYA,Bharatiya Janata Party,240391,BJP,Result Declared,DR. MENKA DEVI SINGH,Indian National Congress
+2,South Goa,CAPTAIN VIRIATO FERNANDES,Indian National Congress,13535,INC,Result Declared,PALLAVI SHRINIVAS DEMPO,Bharatiya Janata Party
+2,Srikakulam,KINJARAPU RAMMOHAN NAIDU,Telugu Desam,327901,Other,Result Declared,TILAK PERADA,Yuvajana Sramika Rythu Congress Party
+2,SRINAGAR,AGA SYED RUHULLAH MEHDI,Jammu & Kashmir National Conference,188416,Other,Result Declared,WAHEED UR REHMAN PARA,Jammu & Kashmir Peoples Democratic Party
+2,Sundargarh,JUAL ORAM,Bharatiya Janata Party,138808,BJP,Result Declared,DILIP KUMAR TIRKEY,Biju Janata Dal
+2,Tripura East,KRITI DEVI DEBBARMAN,Bharatiya Janata Party,486819,BJP,Result Declared,RAJENDRA REANG,Communist Party of India (Marxist)
+2,Tura,SALENG A SANGMA,Indian National Congress,155241,INC,Result Declared,AGATHA K SANGMA,National People's Party
+3,Almora,AJAY TAMTA,Bharatiya Janata Party,234097,BJP,Result Declared,PRADEEP TAMTA,Indian National Congress
+3,ANANTNAG-RAJOURI,MIAN ALTAF AHMAD,Jammu & Kashmir National Conference,281794,Other,Result Declared,MEHBOOBA MUFTI,Jammu & Kashmir Peoples Democratic Party
+3,Bagalkot,GADDIGOUDAR. PARVATAGOUDA. CHANDANAGOUDA.,Bharatiya Janata Party,68399,BJP,Result Declared,SAMYUKTA SHIVANAND PATIL,Indian National Congress
+3,Barpeta,PHANI BHUSAN CHOUDHURY,Asom Gana Parishad,222351,Other,Result Declared,DEEP BAYAN,Indian National Congress
+3,CHENNAI SOUTH,T.SUMATHY (ALIAS) THAMIZHACHI THANGAPANDIAN,Dravida Munnetra Kazhagam,225945,Other,Result Declared,DR.TAMILISAI SOUNDARARAJAN,Bharatiya Janata Party
+3,CHURU,RAHUL KASWAN,Indian National Congress,72737,INC,Result Declared,DEVENDRA JHAJHARIA,Bharatiya Janata Party
+3,East Delhi,HARSH MALHOTRA,Bharatiya Janata Party,93663,BJP,Result Declared,KULDEEP KUMAR (MONU),Aam Aadmi Party
+3,Godda,NISHIKANT DUBEY,Bharatiya Janata Party,101813,BJP,Result Declared,PRADEEP YADAV,Indian National Congress
+3,GWALIOR,BHARAT SINGH KUSHWAH,Bharatiya Janata Party,70210,BJP,Result Declared,PRAVEEN PATHAK,Indian National Congress
+3,HAMIRPUR,ANURAG SINGH THAKUR,Bharatiya Janata Party,182357,BJP,Result Declared,SATPAL RAIZADA,Indian National Congress
+3,Jalgaon,SMITA UDAY WAGH,Bharatiya Janata Party,251594,BJP,Result Declared,KARAN BALASAHEB PATIL - PAWAR,Shiv Sena (Uddhav Balasaheb Thackrey)
+3,Jalpaiguri,DR JAYANTA KUMAR ROY,Bharatiya Janata Party,86693,BJP,Result Declared,NIRMAL CHANDRA ROY,All India Trinamool Congress
+3,JANJGIR-CHAMPA,KAMLESH JANGDE,Bharatiya Janata Party,60000,BJP,Result Declared,DR. SHIVKUMAR DAHARIYA,Indian National Congress
+3,Karimnagar,BANDI SANJAY KUMAR,Bharatiya Janata Party,225209,BJP,Result Declared,VELCHALA RAJENDER RAO,Indian National Congress
+3,Khadoor Sahib,AMRITPAL SINGH,Independent,197120,Other,Result Declared,KULBIR SINGH ZIRA,Indian National Congress
+3,Muzaffarnagar,HARENDRA SINGH MALIK,Samajwadi Party,24672,Other,Result Declared,SANJEEV KUMAR BALYAN,Bharatiya Janata Party
+3,Patan,DABHI BHARATSINHJI SHANKARJI,Bharatiya Janata Party,31876,BJP,Result Declared,CHANDANJI TALAJI THAKOR,Indian National Congress
+3,Purvi Champaran,RADHA MOHAN SINGH,Bharatiya Janata Party,88287,BJP,Result Declared,DR RAJESH KUMAR,Vikassheel Insaan Party
+3,Sambalpur,DHARMENDRA PRADHAN,Bharatiya Janata Party,119836,BJP,Result Declared,PRANAB PRAKASH DAS,Biju Janata Dal
+3,SIRSA,SELJA,Indian National Congress,268497,INC,Result Declared,ASHOK TANWAR,Bharatiya Janata Party
+3,Vadakara,SHAFI PARAMBIL,Indian National Congress,114506,INC,Result Declared,K K SHAILAJA TEACHER,Communist Party of India (Marxist)
+3,Vizianagaram,APPALANAIDU KALISETTI,Telugu Desam,249351,Other,Result Declared,BELLANA CHANDRASEKHAR,Yuvajana Sramika Rythu Congress Party
+4,Bijapur,RAMESH JIGAJINAGI,Bharatiya Janata Party,77229,BJP,Result Declared,RAJU ALAGUR.,Indian National Congress
+4,Bijnor,CHANDAN CHAUHAN,Rashtriya Lok Dal,37508,Other,Result Declared,DEEPAK,Samajwadi Party
+4,Chatra,KALI CHARAN SINGH,Bharatiya Janata Party,220959,BJP,Result Declared,KRISHNA NAND TRIPATHI,Indian National Congress
+4,CHENNAI CENTRAL,DAYANIDHI MARAN,Dravida Munnetra Kazhagam,244689,Other,Result Declared,VINOJ,Bharatiya Janata Party
+4,Darjeeling,RAJU BISTA,Bharatiya Janata Party,178525,BJP,Result Declared,GOPAL LAMA,All India Trinamool Congress
+4,Darrang-Udalguri,DILIP SAIKIA,Bharatiya Janata Party,329012,BJP,Result Declared,MADHAB RAJBANGSHI,Indian National Congress
+4,GUNA,JYOTIRADITYA M. SCINDIA,Bharatiya Janata Party,540929,BJP,Result Declared,YADVENDRA RAO DESHRAJ SINGH,Indian National Congress
+4,HISAR,JAI PARKASH (J P) S/O HARIKESH,Indian National Congress,63381,INC,Result Declared,RANJIT SINGH,Bharatiya Janata Party
+4,Jalandhar,CHARANJIT SINGH CHANNI,Indian National Congress,175993,INC,Result Declared,SUSHIL KUMAR RINKU,Bharatiya Janata Party
+4,JHUNJHUNU,BRIJENDRA SINGH OLA,Indian National Congress,18235,INC,Result Declared,SHUBHKARAN CHOUDHARY,Bharatiya Janata Party
+4,Keonjhar,ANANTA NAYAK,Bharatiya Janata Party,97042,BJP,Result Declared,DHANURJAYA SIDU,Biju Janata Dal
+4,KORBA,JYOTSNA CHARANDAS MAHANT,Indian National Congress,43283,INC,Result Declared,SAROJ PANDEY,Bharatiya Janata Party
+4,Mahesana,HARIBHAI PATEL,Bharatiya Janata Party,328046,BJP,Result Declared,RAMJI THAKOR,Indian National Congress
+4,Nainital-Udhamsingh Nagar,AJAY BHATT,Bharatiya Janata Party,334548,BJP,Result Declared,PRAKASH JOSHI,Indian National Congress
+4,New Delhi,BANSURI SWARAJ,Bharatiya Janata Party,78370,BJP,Result Declared,SOMNATH BHARTI,Aam Aadmi Party
+4,Nizamabad,ARVIND DHARMAPURI,Bharatiya Janata Party,109241,BJP,Result Declared,JEEVANREDDY THATIPARTHI,Indian National Congress
+4,Raver,KHADSE RAKSHA NIKHIL,Bharatiya Janata Party,272183,BJP,Result Declared,SHRIRAM DAYARAM PATIL,Nationalist Congress Party – Sharadchandra Pawar
+4,Sheohar,LOVELY ANAND,Janata Dal (United),29143,Other,Result Declared,RITU JAISWAL,Rashtriya Janata Dal
+4,SHIMLA,Suresh Kumar Kashyap,Bharatiya Janata Party,91451,BJP,Result Declared,Vinod Sultanpuri,Indian National Congress
+4,UDHAMPUR,DR JITENDRA SINGH,Bharatiya Janata Party,124373,BJP,Result Declared,CH LAL SINGH,Indian National Congress
+4,Visakhapatnam,SRIBHARAT MATHUKUMILI,Telugu Desam,504247,Other,Result Declared,JHANSI LAKSHMI. BOTCHA.,Yuvajana Sramika Rythu Congress Party
+4,Wayanad,RAHUL GANDHI,Indian National Congress,364422,INC,Result Declared,ANNIE RAJA,Communist Party of India
+5,Anakapalle,C.M.RAMESH,Bharatiya Janata Party,296530,BJP,Result Declared,BUDI MUTYALA NAIDU,Yuvajana Sramika Rythu Congress Party
+5,BILASPUR,TOKHAN SAHU,Bharatiya Janata Party,164558,BJP,Result Declared,DEVENDRA YADAV,Indian National Congress
+5,Buldhana,JADHAV PRATAPRAO GANPATRAO,Shiv Sena,29479,Other,Result Declared,NARENDRA DAGDU KHEDEKAR,Shiv Sena (Uddhav Balasaheb Thackrey)
+5,Gulbarga,RADHAKRISHNA,Indian National Congress,27205,INC,Result Declared,DR. UMESH G JADHAV,Bharatiya Janata Party
+5,Guwahati,BIJULI KALITA MEDHI,Bharatiya Janata Party,251090,BJP,Result Declared,MIRA BORTHAKUR GOSWAMI,Indian National Congress
+5,Haridwar,TRIVENDRA SINGH RAWAT,Bharatiya Janata Party,164056,BJP,Result Declared,VIRENDRA RAWAT,Indian National Congress
+5,Hoshiarpur,DR. RAJ KUMAR CHABBEWAL,Aam Aadmi Party,44111,Other,Result Declared,YAMINI GOMAR,Indian National Congress
+5,JAMMU,JUGAL KISHORE,Bharatiya Janata Party,135498,BJP,Result Declared,RAMAN BHALLA,Indian National Congress
+5,KARNAL,MANOHAR LAL,Bharatiya Janata Party,232577,BJP,Result Declared,DIVYANSHU BUDHIRAJA,Indian National Congress
+5,Kodarma,ANNPURNA DEVI,Bharatiya Janata Party,377014,BJP,Result Declared,VINOD KUMAR SINGH,Communist Party of India (Marxist-Leninist) (Liberation)
+5,Kozhikode,M. K. RAGHAVAN,Indian National Congress,146176,INC,Result Declared,ELAMARAM KAREEM,Communist Party of India (Marxist)
+5,Mayurbhanj,NABA CHARAN MAJHI,Bharatiya Janata Party,219334,BJP,Result Declared,SUDAM MARNDI,Biju Janata Dal
+5,Nagina,CHANDRASHEKHAR,Aazad Samaj Party (Kanshi Ram),151473,Other,Result Declared,OM KUMAR,Bharatiya Janata Party
+5,North-West Delhi,YOGENDER CHANDOLIYA,Bharatiya Janata Party,290849,BJP,Result Declared,UDIT RAJ,Indian National Congress
+5,Raiganj,KARTICK CHANDRA PAUL,Bharatiya Janata Party,68197,BJP,Result Declared,KALYANI KRISHNA,All India Trinamool Congress
+5,Sabarkantha,SHOBHANABEN MAHENDRASINH BARAIYA,Bharatiya Janata Party,155682,BJP,Result Declared,CHAUDHARI TUSHAR AMARSINH,Indian National Congress
+5,SAGAR,DR. LATA WANKHEDE,Bharatiya Janata Party,471222,BJP,Result Declared,CHANDRA BHUSAN SINGH BUNDELA 'GUDDU RAJA',Indian National Congress
+5,SIKAR,AMRARAM,Communist Party of India (Marxist),72896,Other,Result Declared,SUMEDHANAND SARASWATI,Bharatiya Janata Party
+5,Sitamarhi,DEVESH CHANDRA THAKUR,Janata Dal (United),51356,Other,Result Declared,ARJUN RAY,Rashtriya Janata Dal
+5,SRIPERUMBUDUR,T R BAALU,Dravida Munnetra Kazhagam,487029,Other,Result Declared,G PREMKUMAR,All India Anna Dravida Munnetra Kazhagam
+5,Zahirabad,SURESH KUMAR SHETKAR,Indian National Congress,46188,INC,Result Declared,B. B. PATIL,Bharatiya Janata Party
+6,Akola,ANUP SANJAY DHOTRE,Bharatiya Janata Party,40626,BJP,Result Declared,ABHAY KASHINATH PATIL,Indian National Congress
+6,Anandpur Sahib,MALVINDER SINGH KANG,Aam Aadmi Party,10846,Other,Result Declared,VIJAY INDER SINGLA,Indian National Congress
+6,Balasore,PRATAP CHANDRA SARANGI,Bharatiya Janata Party,147156,BJP,Result Declared,LEKHASRI SAMANTSINGHAR,Biju Janata Dal
+6,Balurghat,SUKANTA MAJUMDAR,Bharatiya Janata Party,10386,BJP,Result Declared,BIPLAB MITRA,All India Trinamool Congress
+6,Diphu,AMARSING TISSO,Bharatiya Janata Party,147603,BJP,Result Declared,J. I. KATHAR,Independent
+6,Gandhinagar,AMIT SHAH,Bharatiya Janata Party,744716,BJP,Result Declared,SONAL RAMANBHAI PATEL,Indian National Congress
+6,Giridih,CHANDRA PRAKASH CHOUDHARY,AJSU Party,80880,Other,Result Declared,MATHURA PRASAD MAHATO,Jharkhand Mukti Morcha
+6,JAIPUR RURAL,RAO RAJENDRA SINGH,Bharatiya Janata Party,1615,BJP,Result Declared,ANIL CHOPRA,Indian National Congress
+6,Kakinada,TANGELLA UDAY SRINIVAS (TEA TIME UDAY),Janasena Party,229491,Other,Result Declared,CHALAMALASETTY SUNIL,Yuvajana Sramika Rythu Congress Party
+6,KANCHEEPURAM,SELVAM. G,Dravida Munnetra Kazhagam,221473,Other,Result Declared,RAJASEKAR. E,All India Anna Dravida Munnetra Kazhagam
+6,Madhubani,ASHOK KUMAR YADAV,Bharatiya Janata Party,151945,BJP,Result Declared,MD ALI ASHRAF FATMI,Rashtriya Janata Dal
+6,Malappuram,E.T. MOHAMMED BASHEER,Indian Union Muslim League,300118,Other,Result Declared,V. VASEEF,Communist Party of India (Marxist)
+6,Medak,MADHAVANENI RAGHUNANDAN RAO,Bharatiya Janata Party,39139,BJP,Result Declared,NEELAM MADHU,Indian National Congress
+6,Moradabad,RUCHI VIRA,Samajwadi Party,105762,Other,Result Declared,KUNWAR SARVESH KUMAR,Bharatiya Janata Party
+6,Raichur,G. KUMAR NAIK.,Indian National Congress,79781,INC,Result Declared,RAJA AMARESHWARA NAIK.,Bharatiya Janata Party
+6,RAJNANDGAON,SANTOSH PANDEY,Bharatiya Janata Party,44411,BJP,Result Declared,BHUPESH BAGHEL,Indian National Congress
+6,SONIPAT,SATPAL BRAHAMCHARI,Indian National Congress,21816,INC,Result Declared,MOHAN LAL BADOLI,Bharatiya Janata Party
+6,TIKAMGARH,DR. VIRENDRA KUMAR,Bharatiya Janata Party,403312,BJP,Result Declared,KHUMAN URF PANKAJ AHIRWAR,Indian National Congress
+6,West Delhi,KAMALJEET SEHRAWAT,Bharatiya Janata Party,199013,BJP,Result Declared,MAHABAL MISHRA,Aam Aadmi Party
+7,Ahmedabad East,HASMUKHBHAI PATEL (H.S.PATEL),Bharatiya Janata Party,461755,BJP,Result Declared,HIMMATSINH PRAHLADSINH PATEL,Indian National Congress
+7,Amalapuram (SC),G M HARISH (BALAYOGI),Telugu Desam,342196,Other,Result Declared,RAPAKA VARAPRASADA RAO,Yuvajana Sramika Rythu Congress Party
+7,Amravati,BALWANT BASWANT WANKHADE,Indian National Congress,19731,INC,Result Declared,NAVNEET RAVI RANA,Bharatiya Janata Party
+7,ARAKKONAM,S JAGATHRATCHAKAN,Dravida Munnetra Kazhagam,306559,Other,Result Declared,L VIJAYAN,All India Anna Dravida Munnetra Kazhagam
+7,Bhadrak,AVIMANYU SETHI,Bharatiya Janata Party,91544,BJP,Result Declared,MANJULATA MANDAL,Biju Janata Dal
+7,Bidar,SAGAR ESHWAR KHANDRE,Indian National Congress,128875,INC,Result Declared,BHAGWANTH KHUBA,Bharatiya Janata Party
+7,DAMOH,RAHUL SINGH LODHI,Bharatiya Janata Party,406426,BJP,Result Declared,TARBAR SINGH LODHI (BANTU BHAIYA),Indian National Congress
+7,Dhanbad,DULU MAHATO,Bharatiya Janata Party,331583,BJP,Result Declared,ANUPAMA SINGH,Indian National Congress
+7,DURG,VIJAY BAGHEL,Bharatiya Janata Party,438226,BJP,Result Declared,RAJENDRA SAHU,Indian National Congress
+7,JAIPUR,MANJU SHARMA,Bharatiya Janata Party,331767,BJP,Result Declared,PRATAP SINGH KHACHARIYAWAS,Indian National Congress
+7,Jhanjharpur,RAMPRIT MANDAL,Janata Dal (United),184169,Other,Result Declared,SUMAN KUMAR MAHASETH,Vikassheel Insaan Party
+7,Karimganj,KRIPANATH MALLAH,Bharatiya Janata Party,18360,BJP,Result Declared,HAFIZ RASHID AHMED CHOUDHURY,Indian National Congress
+7,Ludhiana,AMRINDER SINGH RAJA WARRING,Indian National Congress,20942,INC,Result Declared,RAVNEET SINGH BITTU,Bharatiya Janata Party
+7,Maldaha Uttar,KHAGEN MURMU,Bharatiya Janata Party,77708,BJP,Result Declared,PRASUN BANERJEE,All India Trinamool Congress
+7,Malkajgiri,EATALA RAJENDER,Bharatiya Janata Party,391475,BJP,Result Declared,PATNAM SUNEETHA MAHENDER REDDY,Indian National Congress
+7,Ponnani,DR. M.P ABDUSSAMAD SAMADANI,Indian Union Muslim League,235760,Other,Result Declared,K.S HAMZA,Communist Party of India (Marxist)
+7,Rampur,MOHIBBULLAH,Samajwadi Party,87434,Other,Result Declared,GHANSHYAM SINGH LODHI,Bharatiya Janata Party
+7,ROHTAK,DEEPENDER SINGH HOODA,Indian National Congress,345298,INC,Result Declared,DR. ARVIND KUMAR SHARMA,Bharatiya Janata Party
+7,South Delhi,RAMVIR SINGH BIDHURI,Bharatiya Janata Party,124333,BJP,Result Declared,SAHI RAM,Aam Aadmi Party
+8,Ahmedabad West,DINESHBHAI MAKWANA (ADVOCATE),Bharatiya Janata Party,286437,BJP,Result Declared,BHARAT YOGENDRA MAKWANA,Indian National Congress
+8,ALWAR,BHUPENDER YADAV,Bharatiya Janata Party,48282,BJP,Result Declared,LALIT YADAV,Indian National Congress
+8,BHIWANI-MAHENDRAGARH,DHARAMBIR SINGH,Bharatiya Janata Party,41510,BJP,Result Declared,RAO DAN SINGH,Indian National Congress
+8,Fatehgarh Sahib,AMAR SINGH,Indian National Congress,34202,INC,Result Declared,GURPREET SINGH GP,Aam Aadmi Party
+8,Jajpur,RABINDRA NARAYAN BEHERA,Bharatiya Janata Party,1587,BJP,Result Declared,SARMISTHA SETHI,Biju Janata Dal
+8,KHAJURAHO,VISHNU DATT SHARMA (V.D.SHARMA),Bharatiya Janata Party,541229,BJP,Result Declared,KAMLESH KUMAR,Bahujan Samaj Party
+8,Koppal,K. RAJASHEKAR BASAVARAJ HITNAL,Indian National Congress,46357,INC,Result Declared,DR . BASAVARAJ. K. SHARANAPPA,Bharatiya Janata Party
+8,Maldaha Dakshin,ISHA KHAN CHOUDHURY,Indian National Congress,128368,INC,Result Declared,SREERUPA MITRA CHAUDHURY (NIRBHAYA DIDI),Bharatiya Janata Party
+8,Palakkad,V K SREEKANDAN,Indian National Congress,75283,INC,Result Declared,A VIJAYARAGHAVAN,Communist Party of India (Marxist)
+8,RAIPUR,BRIJMOHAN AGRAWAL,Bharatiya Janata Party,575285,BJP,Result Declared,VIKAS UPADHYAY,Indian National Congress
+8,Rajahmundry,DAGGUBATI PURANDHESHWARI,Bharatiya Janata Party,239139,BJP,Result Declared,DR. GUDURI SRINIVAS,Yuvajana Sramika Rythu Congress Party
+8,Ranchi,SANJAY SETH,Bharatiya Janata Party,120512,BJP,Result Declared,YASHASWINI SAHAY,Indian National Congress
+8,Sambhal,ZIA UR REHMAN,Samajwadi Party,121494,Other,Result Declared,PARMESHWAR LAL SAINI,Bharatiya Janata Party
+8,Secunderabad,G. KISHAN REDDY,Bharatiya Janata Party,49944,BJP,Result Declared,DANAM NAGENDER,Indian National Congress
+8,Silchar,PARIMAL SUKLABAIDYA,Bharatiya Janata Party,264311,BJP,Result Declared,SURYA KANTA SARKAR,Indian National Congress
+8,Supaul,DILESHWAR KAMAIT,Janata Dal (United),169803,Other,Result Declared,CHANDRAHAS CHAUPAL,Rashtriya Janata Dal
+8,VELLORE,DM KATHIR ANAND,Dravida Munnetra Kazhagam,215702,Other,Result Declared,AC SHANMUGAM,Bharatiya Janata Party
+8,Wardha,AMAR SHARADRAO KALE,Nationalist Congress Party – Sharadchandra Pawar,81648,Other,Result Declared,RAMDAS CHANDRABHAN TADAS,Bharatiya Janata Party
+9,Alathur,K.RADHAKRISHNAN,Communist Party of India (Marxist),20111,Other,Result Declared,RAMYA HARIDAS,Indian National Congress
+9,Amroha,KANWAR SINGH TANWAR,Bharatiya Janata Party,28670,BJP,Result Declared,KUNWAR DANISH ALI,Indian National Congress
+9,Araria,PRADEEP KUMAR SINGH,Bharatiya Janata Party,20094,BJP,Result Declared,SHAHNAWAZ,Rashtriya Janata Dal
+9,Bellary,E. TUKARAM,Indian National Congress,98992,INC,Result Declared,B. SREERAMULU,Bharatiya Janata Party
+9,BHARATPUR,SANJNA JATAV,Indian National Congress,51983,INC,Result Declared,RAMSWAROOP KOLI,Bharatiya Janata Party
+9,Dhenkanal,RUDRA NARAYAN PANY,Bharatiya Janata Party,76567,BJP,Result Declared,ABINASH SAMAL,Biju Janata Dal
+9,Faridkot,SARABJEET SINGH KHALSA,Independent,70053,Other,Result Declared,KARAMJIT SINGH ANMOL,Aam Aadmi Party
+9,GURGAON,RAO INDERJIT SINGH,Bharatiya Janata Party,75079,BJP,Result Declared,RAJ BABBAR,Indian National Congress
+9,Hyderabad,ASADUDDIN OWAISI,All India Majlis-E-Ittehadul Muslimeen,338087,Other,Result Declared,MADHAVI LATHA KOMPELLA,Bharatiya Janata Party
+9,Jamshedpur,BIDYUT BARAN MAHATO,Bharatiya Janata Party,259782,BJP,Result Declared,SAMIR KUMAR MOHANTY,Jharkhand Mukti Morcha
+9,Jangipur,KHALILUR RAHAMAN,All India Trinamool Congress,116637,Other,Result Declared,MURTOJA HOSSAIN BOKUL,Indian National Congress
+9,KRISHNAGIRI,GOPINATH K,Indian National Congress,192486,INC,Result Declared,JAYAPRAKASH V,All India Anna Dravida Munnetra Kazhagam
+9,MAHASAMUND,ROOP KUMARI CHOUDHARY,Bharatiya Janata Party,145456,BJP,Result Declared,TAMRADHWAJ SAHU,Indian National Congress
+9,Nagaon,PRADYUT BORDOLOI,Indian National Congress,212231,INC,Result Declared,SURESH BORAH,Bharatiya Janata Party
+9,Narsapuram,BHUPATHI RAJU SRINIVASA VARMA (B.J.P.VARMA),Bharatiya Janata Party,276802,BJP,Result Declared,UMABALA GUDURI,Yuvajana Sramika Rythu Congress Party
+9,Ramtek,Shyamkumar (Babalu) Daulat Barve,Indian National Congress,76768,INC,Result Declared,RAJU DEONATH PARVE,Shiv Sena
+9,SATNA,GANESH SINGH,Bharatiya Janata Party,84949,BJP,Result Declared,DABBU SIDDHARTH SUKHLAL KUSHWAHA,Indian National Congress
+9,Surendranagar,CHANDUBHAI CHHAGANBHAI SHIHORA,Bharatiya Janata Party,261617,BJP,Result Declared,RUTVIKBHAI LAVJIBHAI MAKWANA,Indian National Congress
+10,Baharampur,PATHAN YUSUF,All India Trinamool Congress,85022,Other,Result Declared,ADHIR RANJAN CHOWDHURY,Indian National Congress
+10,BASTAR,MAHESH KASHYAP,Bharatiya Janata Party,55245,BJP,Result Declared,KAWASI LAKHMA,Indian National Congress
+10,Bolangir,SANGEETA KUMARI SINGH DEO,Bharatiya Janata Party,132664,BJP,Result Declared,SURENDRA SINGH BHOI,Biju Janata Dal
+10,Chevella,KONDA VISHWESHWAR REDDY,Bharatiya Janata Party,172897,BJP,Result Declared,DR GADDAM RANJITH REDDY,Indian National Congress
+10,DHARMAPURI,MANI. A.,Dravida Munnetra Kazhagam,21300,Other,Result Declared,SOWMIYA ANBUMANI,Pattali Makkal Katch
+10,Eluru,PUTTA MAHESH KUMAR,Telugu Desam,181857,Other,Result Declared,KARUMURI SUNIL KUMAR,Yuvajana Sramika Rythu Congress Party
+10,FARIDABAD,KRISHAN PAL,Bharatiya Janata Party,172914,BJP,Result Declared,MAHENDER PRATAP SINGH,Indian National Congress
+10,Firozpur,SHER SINGH GHUBAYA,Indian National Congress,3242,INC,Result Declared,JAGDEEP SINGH KAKA BRAR,Aam Aadmi Party
+10,Haveri,BASAVARAJ BOMMAI,Bharatiya Janata Party,43513,BJP,Result Declared,ANANDSWAMY GADDADEVARMATH,Indian National Congress
+10,KARAULI-DHOLPUR,BHAJAN LAL JATAV,Indian National Congress,98945,INC,Result Declared,INDU DEVI,Bharatiya Janata Party
+10,Kaziranga,KAMAKHYA PRASAD TASA,Bharatiya Janata Party,248947,BJP,Result Declared,ROSELINA TIRKEY,Indian National Congress
+10,Kishanganj,MOHAMMAD JAWED,Indian National Congress,59692,INC,Result Declared,MUJAHID ALAM,Janata Dal (United)
+10,Meerut,ARUN GOVIL,Bharatiya Janata Party,10585,BJP,Result Declared,SUNITA VERMA,Samajwadi Party
+10,Nagpur,NITIN JAIRAM GADKARI,Bharatiya Janata Party,137603,BJP,Result Declared,VIKAS THAKRE,Indian National Congress
+10,Rajkot,PARSHOTTAMBHAI RUPALA,Bharatiya Janata Party,484260,BJP,Result Declared,DHANANI PARESH,Indian National Congress
+10,REWA,JANARDAN MISHRA,Bharatiya Janata Party,193374,BJP,Result Declared,NEELAM ABHAY MISHRA,Indian National Congress
+10,Singhbhum,JOBA MAJHI,Jharkhand Mukti Morcha,168402,Other,Result Declared,GEETA KORA,Bharatiya Janata Party
+10,Thrissur,SURESH GOPI,Bharatiya Janata Party,74686,BJP,Result Declared,ADV V S SUNILKUMAR,Communist Party of India
+11,Baghpat,DR RAJKUMAR SANGWAN,Rashtriya Lok Dal,159459,Other,Result Declared,AMARPAL,Samajwadi Party
+11,Bathinda,HARSIMRAT KAUR BADAL,Shiromani Akali Dal,49656,Other,Result Declared,GURMEET SINGH KHUDIAN,Aam Aadmi Party
+11,Bhandara Gondiya,DR. PRASHANT YADAORAO PADOLE,Indian National Congress,37380,INC,Result Declared,SUNIL BABURAO MENDHE,Bharatiya Janata Party
+11,Chalakudy,BENNY BEHANAN,Indian National Congress,63754,INC,Result Declared,PROF C RAVEENDRANATH,Communist Party of India (Marxist)
+11,DAUSA,MURARI LAL MEENA,Indian National Congress,237340,INC,Result Declared,KANHAIYA LAL MEENA,Bharatiya Janata Party
+11,Dharwad,PRALHAD JOSHI,Bharatiya Janata Party,97324,BJP,Result Declared,VINOD ASOOTI,Indian National Congress
+11,Kalahandi,MALVIKA DEVI,Bharatiya Janata Party,133813,BJP,Result Declared,LAMBODAR NIAL,Biju Janata Dal
+11,KANKER,BHOJRAJ NAG,Bharatiya Janata Party,1884,BJP,Result Declared,BIRESH THAKUR,Indian National Congress
+11,Katihar,TARIQ ANWAR,Indian National Congress,49863,INC,Result Declared,DULAL CHANDRA GOSWAMI,Janata Dal (United)
+11,Khunti,KALI CHARAN MUNDA,Indian National Congress,149675,INC,Result Declared,ARJUN MUNDA,Bharatiya Janata Party
+11,Machilipatnam,BALASHOWRY VALLABHANENI,Janasena Party,223179,Other,Result Declared,SIMHADRI CHANDRA SEKHAR RAO,Yuvajana Sramika Rythu Congress Party
+11,Mahbubnagar,ARUNA. D. K,Bharatiya Janata Party,4500,BJP,Result Declared,CHALLA VAMSHI CHAND REDDY,Indian National Congress
+11,Murshidabad,ABU TAHER KHAN,All India Trinamool Congress,164215,Other,Result Declared,MD SALIM,Communist Party of India (Marxist)
+11,Porbandar,DR. MANSUKH MANDAVIYA,Bharatiya Janata Party,383360,BJP,Result Declared,LALIT VASOYA,Indian National Congress
+11,SIDHI,DR. RAJESH MISHRA,Bharatiya Janata Party,206416,BJP,Result Declared,KAMLESHWAR INDRAJIT KUMAR,Indian National Congress
+11,Sonitpur,RANJIT DUTTA,Bharatiya Janata Party,361408,BJP,Result Declared,PREMLAL GANJU,Indian National Congress
+11,TIRUVANNAMALAI,"ANNADURAI, C.N.",Dravida Munnetra Kazhagam,233931,Other,Result Declared,KALIYAPERUMAL M,All India Anna Dravida Munnetra Kazhagam
+12,ARANI,THARANIVENTHAN M S,Dravida Munnetra Kazhagam,208766,Other,Result Declared,"GAJENDRAN, G.V.",All India Anna Dravida Munnetra Kazhagam
+12,Ernakulam,HIBI EDEN,Indian National Congress,250385,INC,Result Declared,K. J. SHINE TEACHER,Communist Party of India (Marxist)
+12,Gadchiroli - Chimur,DR. KIRSAN NAMDEO,Indian National Congress,141696,INC,Result Declared,ASHOK MAHADEORAO NETE,Bharatiya Janata Party
+12,Ghaziabad,ATUL GARG,Bharatiya Janata Party,336965,BJP,Result Declared,DOLLY SHARMA,Indian National Congress
+12,Jamnagar,POONAMBEN HEMATBHAI MAADAM,Bharatiya Janata Party,238008,BJP,Result Declared,ADVOCATE J. P. MARAVIYA,Indian National Congress
+12,Krishnanagar,MAHUA MOITRA,All India Trinamool Congress,56705,Other,Result Declared,AMRITA ROY,Bharatiya Janata Party
+12,Lakhimpur,PRADAN BARUAH,Bharatiya Janata Party,201257,BJP,Result Declared,UDAY SHANKAR HAZARIKA,Indian National Congress
+12,Lohardaga,SUKHDEO BHAGAT,Indian National Congress,139138,INC,Result Declared,SAMIR ORAON,Bharatiya Janata Party
+12,Nabarangpur,BALABHADRA MAJHI,Bharatiya Janata Party,87536,BJP,Result Declared,PRADEEP KUMAR MAJHI,Biju Janata Dal
+12,Nagarkurnool,DR.MALLU RAVI,Indian National Congress,94414,INC,Result Declared,BHARATH PRASAD POTHUGANTI,Bharatiya Janata Party
+12,Purnia,RAJESH RANJAN ALIAS PAPPU YADAV,Independent,23847,Other,Result Declared,SANTOSH KUMAR,Janata Dal (United)
+12,Sangrur,GURMEET SINGH MEET HAYER,Aam Aadmi Party,172560,Other,Result Declared,SUKHPAL SINGH KHAIRA,Indian National Congress
+12,SHAHDOL,SMT. HIMADRI SINGH,Bharatiya Janata Party,397340,BJP,Result Declared,PHUNDE LAL SINGH MARKO,Indian National Congress
+12,TONK-SAWAI MADHOPUR,HARISH CHANDRA MEENA,Indian National Congress,64949,INC,Result Declared,SUKHBIR SINGH JAUNAPURIA,Bharatiya Janata Party
+12,Uttara Kannada,VISHWESHWAR HEGDE KAGERI,Bharatiya Janata Party,337428,BJP,Result Declared,DR. ANJALI NIMBALKAR,Indian National Congress
+12,Vijayawada,KESINENI SIVANATH (CHINNI),Telugu Desam,282085,Other,Result Declared,KESINENI SRINIVAS (NANI),Yuvajana Sramika Rythu Congress Party
+13,AJMER,BHAGIRATH CHOUDHARY,Bharatiya Janata Party,329991,BJP,Result Declared,RAMCHANDRA CHOUDHARY,Indian National Congress
+13,Chandrapur,DHANORKAR PRATIBHA SURESH ALIAS BALUBHAU,Indian National Congress,260406,INC,Result Declared,MUNGANTIWAR SUDHIR SACCHIDANAND,Bharatiya Janata Party
+13,Davanagere,DR. PRABHA MALLIKARJUN,Indian National Congress,26094,INC,Result Declared,GAYITHRI SIDDESHWARA,Bharatiya Janata Party
+13,Dibrugarh,SARBANANDA SONOWAL,Bharatiya Janata Party,279321,BJP,Result Declared,LURINJYOTI GOGOI,Assam Jatiya Parishad
+13,Gautam Buddha Nagar,DR. MAHESH SHARMA,Bharatiya Janata Party,559472,BJP,Result Declared,DR. MAHENDRA SINGH NAGAR,Samajwadi Party
+13,Guntur,DR CHANDRA SEKHAR PEMMASANI,Telugu Desam,344695,Other,Result Declared,KILARI VENKATA ROSAIAH,Yuvajana Sramika Rythu Congress Party
+13,Idukki,ADV. DEAN KURIAKOSE,Indian National Congress,133727,INC,Result Declared,ADV. JOICE GEORGE,Communist Party of India (Marxist)
+13,JABALPUR,ASHISH DUBEY,Bharatiya Janata Party,486674,BJP,Result Declared,DINESH YADAV,Indian National Congress
+13,Junagadh,CHUDASAMA RAJESHBHAI NARANBHAI,Bharatiya Janata Party,135494,BJP,Result Declared,JOTVA HIRABHAI ARJANBHAI,Indian National Congress
+13,Kandhamal,SUKANTA KUMAR PANIGRAHI,Bharatiya Janata Party,21371,BJP,Result Declared,ACHYUTANANDA SAMANTA,Biju Janata Dal
+13,Madhepura,DINESH CHANDRA YADAV,Janata Dal (United),174534,Other,Result Declared,DA KUMAR CHANDRADEEP,Rashtriya Janata Dal
+13,Nalgonda,KUNDURU RAGHUVEER,Indian National Congress,559905,INC,Result Declared,SAIDI REDDY SHANAMPUDI,Bharatiya Janata Party
+13,Palamau,VISHNU DAYAL RAM,Bharatiya Janata Party,288807,BJP,Result Declared,MAMTA BHUIYAN,Rashtriya Janata Dal
+13,Patiala,DR DHARAMVIRA GANDHI,Indian National Congress,14831,INC,Result Declared,DR BALBIR SINGH,Aam Aadmi Party
+13,Ranaghat,JAGANNATH SARKAR,Bharatiya Janata Party,186899,BJP,Result Declared,MUKUT MANI ADHIKARI,All India Trinamool Congress
+13,VILUPPURAM,RAVIKUMAR. D,Viduthalai Chiruthaigal Katch,70703,Other,Result Declared,BHAGYARAJ. J,All India Anna Dravida Munnetra Kazhagam
+14,Amreli,BHARATBHAI MANUBHAI SUTARIYA,Bharatiya Janata Party,321068,BJP,Result Declared,JENNY THUMMAR,Indian National Congress
+14,Bangaon,SHANTANU THAKUR,Bharatiya Janata Party,73693,BJP,Result Declared,BISWAJIT DAS S/O LATE BIJAY KRISHNA DAS,All India Trinamool Congress
+14,Bhongir,CHAMALA KIRAN KUMAR REDDY,Indian National Congress,222170,INC,Result Declared,DR. BOORA NARSAIAH GOUD,Bharatiya Janata Party
+14,Bulandshahr,DR BHOLA SINGH,Bharatiya Janata Party,275134,BJP,Result Declared,SHIVRAM,Indian National Congress
+14,Cuttack,BHARTRUHARI MAHTAB,Bharatiya Janata Party,57077,BJP,Result Declared,SANTRUPT MISRA,Biju Janata Dal
+14,Darbhanga,GOPAL JEE THAKUR,Bharatiya Janata Party,178156,BJP,Result Declared,LALIT KUMAR YADAV,Rashtriya Janata Dal
+14,Hazaribagh,MANISH JAISWAL,Bharatiya Janata Party,276686,BJP,Result Declared,JAI PRAKASH BHAI PATEL,Indian National Congress
+14,Jorhat,GAURAV GOGOI,Indian National Congress,144393,INC,Result Declared,TOPON KUMAR GOGOI,Bharatiya Janata Party
+14,KALLAKURICHI,MALAIYARASAN D,Dravida Munnetra Kazhagam,53784,Other,Result Declared,KUMARAGURU R,All India Anna Dravida Munnetra Kazhagam
+14,Kottayam,ADV K FRANCIS GEORGE,Kerala Congress,87266,Other,Result Declared,THOMAS CHAZHIKADAN,Kerala Congress (M)
+14,MANDLA,FAGGAN SINGH KULASTE,Bharatiya Janata Party,103846,BJP,Result Declared,OMKAR SINGH MARKAM,Indian National Congress
+14,NAGAUR,HANUMAN BENIWAL,Rashtriya Loktantrik Party,42225,Other,Result Declared,JYOTI MIRDHA,Bharatiya Janata Party
+14,Narsaraopet,LAVU SRIKRISHNA DEVARAYALU,Telugu Desam,159729,Other,Result Declared,ANIL KUMAR POLUBOINA,Yuvajana Sramika Rythu Congress Party
+14,Shimoga,B.Y.RAGHAVENDRA,Bharatiya Janata Party,243715,BJP,Result Declared,GEETHA SHIVARAJKUMAR,Indian National Congress
+14,Yavatmal- Washim,SANJAY UTTAMRAO DESHMUKH,Shiv Sena (Uddhav Balasaheb Thackrey),94473,Other,Result Declared,RAJSHRITAI HEMANT PATIL (MAHALLE),Shiv Sena
+15,Alappuzha,K. C VENUGOPAL,Indian National Congress,63513,INC,Result Declared,A. M ARIFF,Communist Party of India (Marxist)
+15,Aligarh,SATISH KUMAR GAUTAM,Bharatiya Janata Party,15647,BJP,Result Declared,BIJENDRA SINGH,Samajwadi Party
+15,BALAGHAT,BHARTI PARDHI,Bharatiya Janata Party,174512,BJP,Result Declared,SAMRAT ASHOK SINGH SARASWAR,Indian National Congress
+15,Bapatla (SC),KRISHNA PRASAD TENNETI,Telugu Desam,208031,Other,Result Declared,NANDIGAM SURESH BABU,Yuvajana Sramika Rythu Congress Party
+15,Barrackpur,PARTHA BHOWMICK,All India Trinamool Congress,64438,Other,Result Declared,ARJUN SINGH,Bharatiya Janata Party
+15,Bhavnagar,NIMUBEN JAYANTIBHAI BAMBHANIYA (NIMUBEN BAMBHANIYA),Bharatiya Janata Party,455289,BJP,Result Declared,UMESHBHAI NARANBHAI MAKWANA,Aam Aadmi Party
+15,Hingoli,AASHTIKAR PATIL NAGESH BAPURAO,Shiv Sena (Uddhav Balasaheb Thackrey),108602,Other,Result Declared,BABURAO KADAM KOHALIKAR,Shiv Sena
+15,Kendrapara,BAIJAYANT PANDA,Bharatiya Janata Party,66536,BJP,Result Declared,ANSHUMAN MOHANTY,Biju Janata Dal
+15,Muzaffarpur,RAJ BHUSHAN CHOUDHARY,Bharatiya Janata Party,234927,BJP,Result Declared,AJAY NISHAD,Indian National Congress
+15,PALI,P. P. CHAUDHARY,Bharatiya Janata Party,245351,BJP,Result Declared,SANGEETA BENIWAL,Indian National Congress
+15,SALEM,SELVAGANAPATHI T M,Dravida Munnetra Kazhagam,70357,Other,Result Declared,VIGNESH P,All India Anna Dravida Munnetra Kazhagam
+15,Udupi Chikmagalur,KOTA SRINIVAS POOJARY,Bharatiya Janata Party,259175,BJP,Result Declared,K. JAYAPRAKASH HEGDE,Indian National Congress
+15,Warangal,KADIYAM KAVYA,Indian National Congress,220339,INC,Result Declared,AROORI RAMESH,Bharatiya Janata Party
+16,Anand,MITESH PATEL (BAKABHAI),Bharatiya Janata Party,89939,BJP,Result Declared,AMIT CHAVDA,Indian National Congress
+16,CHHINDWARA,BUNTY VIVEK SAHU,Bharatiya Janata Party,113618,BJP,Result Declared,NAKUL KAMALNATH,Indian National Congress
+16,Dum dum,SOUGATA RAY,All India Trinamool Congress,70660,Other,Result Declared,SILBHADRA DATTA,Bharatiya Janata Party
+16,Hassan,SHREYAS. M. PATEL,Indian National Congress,42649,INC,Result Declared,PRAJWAL REVANNA,Janata Dal (Secular)
+16,Hathras,ANOOP PRADHAN BALMIKI,Bharatiya Janata Party,247318,BJP,Result Declared,JASVEER VALMIKI,Samajwadi Party
+16,Jagatsinghpur,BIBHU PRASAD TARAI,Bharatiya Janata Party,40696,BJP,Result Declared,DR. RAJASHREE MALLICK,Biju Janata Dal
+16,JODHPUR,GAJENDRA SINGH SHEKHAWAT,Bharatiya Janata Party,115677,BJP,Result Declared,KARAN SINGH UCHIYARDA,Indian National Congress
+16,Mahabubabad,BALRAM NAIK PORIKA,Indian National Congress,349165,INC,Result Declared,KAVITHA MALOTH,Bharat Rashtra Samith
+16,Mavelikkara,KODIKUNNIL SURESH,Indian National Congress,10868,INC,Result Declared,ADV ARUN KUMAR C A,Communist Party of India
+16,NAMAKKAL,MATHESWARAN V S,Dravida Munnetra Kazhagam,29112,Other,Result Declared,TAMILMANI S,All India Anna Dravida Munnetra Kazhagam
+16,Nanded,CHAVAN VASANTRAO BALWANTRAO,Indian National Congress,59442,INC,Result Declared,CHIKHALIKAR PRATAPRAO GOVINDRAO,Bharatiya Janata Party
+16,Ongole,MAGUNTA SREENIVASULU REDDY,Telugu Desam,50199,Other,Result Declared,DR CHEVIREDDY BHASKAR REDD,Yuvajana Sramika Rythu Congress Party
+16,Vaishali,VEENA DEVI,Lok Janshakti Party(Ram Vilas),89634,Other,Result Declared,VIJAY KUMAR SHUKLA,Rashtriya Janata Dal
+17,Barasat,KAKOLI GHOSH DASTIDAR,All India Trinamool Congress,114189,Other,Result Declared,SWAPAN MAJUMDER,Bharatiya Janata Party
+17,BARMER,UMMEDA RAM BENIWAL,Indian National Congress,118176,INC,Result Declared,RAVINDRA SINGH BHATI,Independent
+17,Dakshina Kannada,CAPTAIN BRIJESH CHOWTA,Bharatiya Janata Party,149208,BJP,Result Declared,PADMARAJ.R.POOJARY,Indian National Congress
+17,ERODE,K E PRAKASH,Dravida Munnetra Kazhagam,236566,Other,Result Declared,ASHOK KUMAR,All India Anna Dravida Munnetra Kazhagam
+17,Gopalganj,DR. ALOK KUMAR SUMAN,Janata Dal (United),127180,Other,Result Declared,PREM NATH CHANCHAL ALIAS CHANCHAL PASWAN,Vikassheel Insaan Party
+17,HOSHANGABAD,DARSHAN SINGH CHOUDHARY,Bharatiya Janata Party,431696,BJP,Result Declared,SANJAY SHARMA SANJU BHAIYA,Indian National Congress
+17,Khammam,RAMASAHAYAM RAGHURAM REDDY,Indian National Congress,467847,INC,Result Declared,NAMA NAGESWARA RAO,Bharat Rashtra Samith
+17,Kheda,DEVUSINH CHAUHAN,Bharatiya Janata Party,357758,BJP,Result Declared,KALUSINH DABHI,Indian National Congress
+17,Mathura,HEMAMALINI DHARMENDRA DEOL,Bharatiya Janata Party,293407,BJP,Result Declared,MUKESH DHANGAR,Indian National Congress
+17,Nandyal,DR BYREDDY SHABARI,Telugu Desam,111975,Other,Result Declared,POCHA BRAHMANANDA REDDY,Yuvajana Sramika Rythu Congress Party
+17,Parbhani,JADHAV SANJAY ( BANDU ) HARIBHAU,Shiv Sena (Uddhav Balasaheb Thackrey),134061,Other,Result Declared,JANKAR MAHADEV JAGANNATH,Rashtriya Samaj Paksha
+17,Pathanamthitta,ANTO ANTONY,Indian National Congress,66119,INC,Result Declared,DR.T.M.THOMAS ISSAC,Communist Party of India (Marxist)
+17,Puri,SAMBIT PATRA,Bharatiya Janata Party,104709,BJP,Result Declared,ARUP MOHAN PATNAIK,Biju Janata Dal
+18,Agra,PROF S P SINGH BAGHEL,Bharatiya Janata Party,271294,BJP,Result Declared,SURESH CHAND KARDAM,Samajwadi Party
+18,Basirhat,SK NURUL ISLAM,All India Trinamool Congress,333547,Other,Result Declared,REKHA PATRA,Bharatiya Janata Party
+18,Bhubaneswar,APARAJITA SARANGI,Bharatiya Janata Party,35152,BJP,Result Declared,MANMATH KUMAR ROUTRAY,Biju Janata Dal
+18,Chitradurga,GOVIND MAKTHAPPA KARJOL,Bharatiya Janata Party,48121,BJP,Result Declared,B.N.CHANDRAPPA,Indian National Congress
+18,Jalna,KALYAN VAIJINATHRAO KALE,Indian National Congress,109958,INC,Result Declared,DANVE RAOSAHEB DADARAO,Bharatiya Janata Party
+18,JALORE,LUMBARAM,Bharatiya Janata Party,201543,BJP,Result Declared,VAIBHAV GEHLOT,Indian National Congress
+18,Kollam,N K PREMACHANDRAN,Revolutionary Socialist Party,150302,Other,Result Declared,M MUKESH,Communist Party of India (Marxist)
+18,Kurnoolu,BASTIPATI NAGARAJU PANCHALINGALA,Telugu Desam,111298,Other,Result Declared,B Y RAMAIAH,Yuvajana Sramika Rythu Congress Party
+18,Panchmahal,RAJPALSINH MAHENDRASINH JADAV,Bharatiya Janata Party,509342,BJP,Result Declared,GULABSINH SOMSINH CHAUHAN,Indian National Congress
+18,Siwan,VIJAYLAKSHMI DEVI,Janata Dal (United),92857,Other,Result Declared,HENA SHAHAB,Independent
+18,TIRUPPUR,"SUBBARAYAN, K.",Communist Party of India,125928,Other,Result Declared,"ARUNACHALAM, P.",All India Anna Dravida Munnetra Kazhagam
+18,VIDISHA,SHIVRAJ SINGH CHOUHAN,Bharatiya Janata Party,821408,BJP,Result Declared,PRATAPBHANU SHARMA,Indian National Congress
+19,Ananthapur,AMBICA G LAKSHMINARAYANA VALMIKI,Telugu Desam,188555,Other,Result Declared,MALAGUNDLA SANKAR NARAYANA,Yuvajana Sramika Rythu Congress Party
+19,Aska,ANITA SUBHADARSHINI,Bharatiya Janata Party,99974,BJP,Result Declared,RANJITA SAHU,Biju Janata Dal
+19,Attingal,ADV ADOOR PRAKASH,Indian National Congress,684,INC,Result Declared,V JOY,Communist Party of India (Marxist)
+19,Aurangabad,BHUMARE SANDIPANRAO ASARAM,Shiv Sena,134650,Other,Result Declared,IMTIAZ JALEEL SYED,All India Majlis-E-Ittehadul Muslimeen
+19,BHOPAL,ALOK SHARMA,Bharatiya Janata Party,501499,BJP,Result Declared,ADVOCATE ARUN SHRIVASTAVA,Indian National Congress
+19,Dahod,JASWANTSINH SUMANBHAI BHABHOR,Bharatiya Janata Party,333677,BJP,Result Declared,DR. PRABHABEN KISHORSINH TAVIYAD,Indian National Congress
+19,Fatehpur Sikri,RAJKUMAR CHAHAR,Bharatiya Janata Party,43405,BJP,Result Declared,RAMNATH SINGH SIKARWAR,Indian National Congress
+19,Joynagar,PRATIMA MONDAL,All India Trinamool Congress,470219,Other,Result Declared,ASHOK KANDARY,Bharatiya Janata Party
+19,Maharajganj,"JANARDAN SINGH ""SIGRIWAL""",Bharatiya Janata Party,102651,BJP,Result Declared,AAKASH KUMAR SINGH,Indian National Congress
+19,NILGIRIS,RAJA A,Dravida Munnetra Kazhagam,240585,Other,Result Declared,DR MURUGAN L,Bharatiya Janata Party
+19,Tumkur,V. SOMANNA,Bharatiya Janata Party,175594,BJP,Result Declared,S.P. MUDDAHANUMEGOWDA,Indian National Congress
+19,UDAIPUR,MANNA LAL RAWAT,Bharatiya Janata Party,261608,BJP,Result Declared,TARACHAND MEENA,Indian National Congress
+20,BANSWARA,RAJ KUMAR ROAT,Bharat Adivasi Party,247054,Other,Result Declared,MAHENDRAJEETSINGH MALVIYA,Bharatiya Janata Party
+20,Berhampur,DR. PRADEEP KUMAR PANIGRAHY,Bharatiya Janata Party,165476,BJP,Result Declared,BHRUGU BAXIPATRA,Biju Janata Dal
+20,COIMBATORE,GANAPATHY RAJKUMAR P,Dravida Munnetra Kazhagam,118068,Other,Result Declared,ANNAMALAI K,Bharatiya Janata Party
+20,Dindori,BHASKAR MURLIDHAR BHAGARE,Nationalist Congress Party – Sharadchandra Pawar,113199,Other,Result Declared,DR. BHARATI PRAVIN PAWAR,Bharatiya Janata Party
+20,Firozabad,AKSHAYA YADAV,Samajwadi Party,89312,Other,Result Declared,VISHWADEEP SINGH,Bharatiya Janata Party
+20,Hindupur,B K PARTHASARATHI,Telugu Desam,132427,Other,Result Declared,J SHANTHA,Yuvajana Sramika Rythu Congress Party
+20,Mandya,H.D. KUMARASWAMY,Janata Dal (Secular),284620,Other,Result Declared,VENKATARAMANE GOWDA (STAR CHANDRU),Indian National Congress
+20,Mathurapur,BAPI HALDAR,All India Trinamool Congress,201057,Other,Result Declared,ASHOK PURKAIT,Bharatiya Janata Party
+20,RAJGARH,RODMAL NAGAR,Bharatiya Janata Party,146089,BJP,Result Declared,DIGVIJAYA SINGH,Indian National Congress
+20,Saran,RAJIV PRATAP RUDY,Bharatiya Janata Party,13661,BJP,Result Declared,ROHINI ACHARYA,Rashtriya Janata Dal
+20,Thiruvananthapuram,SHASHI THAROOR,Indian National Congress,16077,INC,Result Declared,RAJEEV CHANDRASEKHAR,Bharatiya Janata Party
+20,Vadodara,DR. HEMANG JOSHI,Bharatiya Janata Party,582126,BJP,Result Declared,PADHIYAR JASHPALSINH MAHENDRASINH (BAPU),Indian National Congress
+21,Chhota Udaipur,JASHUBHAI BHILUBHAI RATHVA,Bharatiya Janata Party,398777,BJP,Result Declared,SUKHRAMBHAI HARIYABHAI RATHWA,Indian National Congress
+21,CHITTORGARH,CHANDRA PRAKASH JOSHI,Bharatiya Janata Party,389877,BJP,Result Declared,ANJANA UDAILAL,Indian National Congress
+21,DEWAS,MAHENDRA SINGH SOLANKY,Bharatiya Janata Party,425225,BJP,Result Declared,RAJENDRA RADHAKISHAN MALVIYA,Indian National Congress
+21,Diamond harbour,ABHISHEK BANERJEE,All India Trinamool Congress,710930,Other,Result Declared,ABHIJIT DAS (BOBBY),Bharatiya Janata Party
+21,Hajipur,CHIRAG PASWAN,Lok Janshakti Party(Ram Vilas),170105,Other,Result Declared,SHIV CHANDRA RAM,Rashtriya Janata Dal
+21,Kadapa,Y. S. AVINASH REDDY,Yuvajana Sramika Rythu Congress Party,62695,Other,Result Declared,CHADIPIRALLA BHUPESH SUBBARAMI REDDY,Telugu Desam
+21,Koraput,SAPTAGIRI SANKAR ULAKA,Indian National Congress,147744,INC,Result Declared,KAUSALYA HIKAKA,Biju Janata Dal
+21,Mainpuri,DIMPLE YADAV,Samajwadi Party,221639,Other,Result Declared,JAYVEER SINGH,Bharatiya Janata Party
+21,Mysore,YADUVEER KRISHNADATTA CHAMARAJA WADIYAR,Bharatiya Janata Party,139262,BJP,Result Declared,M. LAKSHMANA,Indian National Congress
+21,Nashik,RAJABHAU (PARAG) PRAKASH WAJE,Shiv Sena (Uddhav Balasaheb Thackrey),162001,Other,Result Declared,GODSE HEMANT TUKARAM,Shiv Sena
+21,POLLACHI,ESWARASAMY K,Dravida Munnetra Kazhagam,252042,Other,Result Declared,KARTHIKEYAN A,All India Anna Dravida Munnetra Kazhagam
+22,Bharuch,MANSUKHBHAI DHANJIBHAI VASAVA,Bharatiya Janata Party,85696,BJP,Result Declared,CHAITARBHAI DAMJIBHAI VASAVA,Aam Aadmi Party
+22,Chamarajanagar,SUNIL BOSE,Indian National Congress,188706,INC,Result Declared,BALARAJ.S,Bharatiya Janata Party
+22,DINDIGUL,SACHITHANANTHAM R,Communist Party of India (Marxist),443821,Other,Result Declared,MOHAMED MUBARAK M A,All India Anna Dravida Munnetra Kazhagam
+22,Etah,DEVESH SHAKYA,Samajwadi Party,28052,Other,Result Declared,RAJVEER SINGH (RAJU BHAIYA),Bharatiya Janata Party
+22,Jadavpur,SAYANI GHOSH,All India Trinamool Congress,258201,Other,Result Declared,DR. ANIRBAN GANGULY,Bharatiya Janata Party
+22,Nellore,PRABHAKAR REDDY VEMIREDDY,Telugu Desam,245902,Other,Result Declared,VENUMBAKA VIJAYASAI REDDY,Yuvajana Sramika Rythu Congress Party
+22,Palghar,DR. HEMANT VISHNU SAVARA,Bharatiya Janata Party,183306,BJP,Result Declared,BHARTI BHARAT KAMDI,Shiv Sena (Uddhav Balasaheb Thackrey)
+22,RAJSAMAND,MAHIMA KUMARI MEWAR,Bharatiya Janata Party,392223,BJP,Result Declared,DR. DAMODAR GURJAR,Indian National Congress
+22,Ujiarpur,NITYANAND RAI,Bharatiya Janata Party,60102,BJP,Result Declared,ALOK KUMAR MEHTA,Rashtriya Janata Dal
+22,UJJAIN,ANIL FIROJIYA,Bharatiya Janata Party,375860,BJP,Result Declared,MAHESH PARMAR,Indian National Congress
+23,Badaun,ADITYA YADAV,Samajwadi Party,34991,Other,Result Declared,DURVIJAY SINGH SHAKYA,Bharatiya Janata Party
+23,Bangalore Rural,DR C N MANJUNATH,Bharatiya Janata Party,269647,BJP,Result Declared,D K SURESH,Indian National Congress
+23,Bardoli,PARBHUBHAI NAGARBHAI VASAVA,Bharatiya Janata Party,230253,BJP,Result Declared,CHAUDHARY SIDDHARTH AMARSINH,Indian National Congress
+23,BHILWARA,DAMODAR AGARWAL,Bharatiya Janata Party,354606,BJP,Result Declared,C P JOSHI,Indian National Congress
+23,Bhiwandi,BALYA MAMA - SURESH GOPINATH MHATRE,Nationalist Congress Party – Sharadchandra Pawar,66121,Other,Result Declared,KAPIL MORESHWAR PATIL,Bharatiya Janata Party
+23,KARUR,JOTHIMANI. S,Indian National Congress,166816,INC,Result Declared,THANGAVEL. L,All India Anna Dravida Munnetra Kazhagam
+23,Kolkata Dakshin,MALA ROY,All India Trinamool Congress,187231,Other,Result Declared,DEBASREE CHAUDHURI,Bharatiya Janata Party
+23,MANDSOUR,SUDHEER GUPTA,Bharatiya Janata Party,500655,BJP,Result Declared,DILIP SINGH GURJAR,Indian National Congress
+23,Samastipur,SHAMBHAVI,Lok Janshakti Party(Ram Vilas),187251,Other,Result Declared,SUNNY HAZARI,Indian National Congress
+23,Thirupathi(SC),GURUMOORTHY MADDILA,Yuvajana Sramika Rythu Congress Party,14569,Other,Result Declared,VARA PRASAD RAO VELAGAPALLI,Bharatiya Janata Party
+24,Aonla,NEERAJ MAURYA,Samajwadi Party,15969,Other,Result Declared,DHARMENDRA KASHYAP,Bharatiya Janata Party
+24,Bangalore North,SHOBHA KARANDLAJE,Bharatiya Janata Party,259476,BJP,Result Declared,PROFESSOR M.V RAJEEV GOWDA,Indian National Congress
+24,Begusarai,GIRIRAJ SINGH,Bharatiya Janata Party,81480,BJP,Result Declared,ABDHESH KUMAR ROY,Communist Party of India
+24,Kalyan,DR SHRIKANT EKNATH SHINDE,Shiv Sena,209144,Other,Result Declared,VAISHALI DAREKAR - RANE,Shiv Sena (Uddhav Balasaheb Thackrey)
+24,Kolkata Uttar,BANDYOPADHYAY SUDIP,All India Trinamool Congress,92560,Other,Result Declared,TAPAS ROY,Bharatiya Janata Party
+24,KOTA,OM BIRLA,Bharatiya Janata Party,41974,BJP,Result Declared,PRAHLAD GUNJAL,Indian National Congress
+24,Rajampet,P V MIDHUN REDDY,Yuvajana Sramika Rythu Congress Party,76071,Other,Result Declared,NALLARI KIRAN KUMAR REDDY,Bharatiya Janata Party
+24,RATLAM,ANITA NAGARSINGH CHOUHAN,Bharatiya Janata Party,207232,BJP,Result Declared,KANTILAL BHURIA,Indian National Congress
+24,Surat,MUKESHKUMAR CHANDRAKAANT DALAL,Bharatiya Janata Party,0,BJP,Uncontested,"",""
+24,TIRUCHIRAPPALLI,DURAI VAIKO,Marumalarchi Dravida Munnetra Kazhagam,313094,Other,Result Declared,KARUPPAIAH. P,All India Anna Dravida Munnetra Kazhagam
+25,Bangalore central,P C MOHAN,Bharatiya Janata Party,32707,BJP,Result Declared,MANSOOR ALI KHAN,Indian National Congress
+25,Bareilly,CHHATRA PAL SINGH GANGWAR,Bharatiya Janata Party,34804,BJP,Result Declared,PRAVEEN SINGH ARON,Samajwadi Party
+25,Chittoor(SC),DAGGUMALLA PRASADA RAO,Telugu Desam,220479,Other,Result Declared,REDDEPPA.N .,Yuvajana Sramika Rythu Congress Party
+25,DHAR,SAVITRI THAKUR,Bharatiya Janata Party,218665,BJP,Result Declared,RADHESHYAM MUVEL,Indian National Congress
+25,Howrah,PRASUN BANERJEE,All India Trinamool Congress,169442,Other,Result Declared,DR RATHIN CHAKRAVARTY,Bharatiya Janata Party
+25,JHALAWAR-BARAN,DUSHYANT SINGH,Bharatiya Janata Party,370989,BJP,Result Declared,URMILA JAIN “BHAYA”,Indian National Congress
+25,Khagaria,RAJESH VERMA,Lok Janshakti Party(Ram Vilas),161131,Other,Result Declared,SANJAY KUMAR,Communist Party of India (Marxist)
+25,Navsari,C R PATIL,Bharatiya Janata Party,773551,BJP,Result Declared,NAISHADHBHAI BHUPATBHAI DESAI,Indian National Congress
+25,PERAMBALUR,ARUN NEHRU,Dravida Munnetra Kazhagam,389107,Other,Result Declared,CHANDRAMOHAN N D,All India Anna Dravida Munnetra Kazhagam
+25,Thane,NARESH GANPAT MHASKE,Shiv Sena,217011,Other,Result Declared,RAJAN BABURAO VICHARE,Shiv Sena (Uddhav Balasaheb Thackrey)
+26,Bangalore South,TEJASVI SURYA,Bharatiya Janata Party,277083,BJP,Result Declared,SOWMYA REDDY,Indian National Congress
+26,Bhagalpur,AJAY KUMAR MANDAL,Janata Dal (United),104868,Other,Result Declared,AJEET SHARMA,Indian National Congress
+26,CUDDALORE,M.K. VISHNUPRASAD,Indian National Congress,185896,INC,Result Declared,P. SIVAKOZHUNDU,Desiya Murpokku Dravida Kazhagam
+26,INDORE,SHANKAR LALWANI,Bharatiya Janata Party,1175092,BJP,Result Declared,SANJAY S/O LAKSHMAN SOLANKI,Bahujan Samaj Party
+26,Mumbai North,PIYUSH GOYAL,Bharatiya Janata Party,357608,BJP,Result Declared,BHUSHAN PATIL,Indian National Congress
+26,Pilibhit,JITIN PRASADA,Bharatiya Janata Party,164935,BJP,Result Declared,BHAGWAT SARAN GANGWAR,Samajwadi Party
+26,Uluberia,SAJDA AHMED,All India Trinamool Congress,218673,Other,Result Declared,ARUNUDAY PAULCHOWDHURY,Bharatiya Janata Party
+26,Valsad,DHAVAL LAXMANBHAI PATEL,Bharatiya Janata Party,210704,BJP,Result Declared,ANANTKUMAR HASMUKHBHAI PATEL,Indian National Congress
+27,Banka,GIRIDHARI YADAV,Janata Dal (United),103844,Other,Result Declared,JAI PRAKASH NARAYAN YADAV,Rashtriya Janata Dal
+27,CHIDAMBARAM,THIRUMAAVALAVAN THOL,Viduthalai Chiruthaigal Katch,103554,Other,Result Declared,CHANDRAHASAN M,All India Anna Dravida Munnetra Kazhagam
+27,Chikkballapur,DR.K.SUDHAKAR,Bharatiya Janata Party,163460,BJP,Result Declared,M.S. RAKSHA RAMAIAH,Indian National Congress
+27,KHARGONE,GAJENDRA SINGH PATEL,Bharatiya Janata Party,135018,BJP,Result Declared,PORLAL BATHA KHARTE,Indian National Congress
+27,Mumbai North West,RAVINDRA DATTARAM WAIKAR,Shiv Sena,48,Other,Result Declared,AMOL GAJANAN KIRTIKAR,Shiv Sena (Uddhav Balasaheb Thackrey)
+27,Shahjahanpur,ARUN KUMAR SAGAR,Bharatiya Janata Party,55379,BJP,Result Declared,JYOTSNA GOND,Samajwadi Party
+27,Srerampur,KALYAN BANERJEE,All India Trinamool Congress,174830,Other,Result Declared,KABIR SHANKAR BOSE,Bharatiya Janata Party
+28,Hooghly,RACHNA BANERJEE,All India Trinamool Congress,76853,Other,Result Declared,LOCKET CHATTERJEE,Bharatiya Janata Party
+28,KHANDWA,GYANESHWAR PATIL,Bharatiya Janata Party,269971,BJP,Result Declared,NARENDRA PATEL,Indian National Congress
+28,Kheri,UTKARSH VERMA 'MADHUR',Samajwadi Party,34329,Other,Result Declared,AJAY KUMAR,Bharatiya Janata Party
+28,Kolar,M. MALLESH BABU,Janata Dal (Secular),71388,Other,Result Declared,K V GOWTHAM,Indian National Congress
+28,MAYILADUTHURAI,SUDHA R,Indian National Congress,271183,INC,Result Declared,BABU P,All India Anna Dravida Munnetra Kazhagam
+28,Mumbai North East,SANJAY DINA PATIL,Shiv Sena (Uddhav Balasaheb Thackrey),29861,Other,Result Declared,MIHIR CHANDRAKANT KOTECHA,Bharatiya Janata Party
+28,Munger,RAJIV RANJAN SINGH ALIAS LALAN SINGH,Janata Dal (United),80870,Other,Result Declared,KUMARI ANITA,Rashtriya Janata Dal
+29,Arambagh,BAG MITALI,All India Trinamool Congress,6399,Other,Result Declared,ARUP KANTI DIGAR,Bharatiya Janata Party
+29,BETUL,DURGADAS (D. D.) UIKEY,Bharatiya Janata Party,379761,BJP,Result Declared,RAMU TEKAM,Indian National Congress
+29,Dhaurahra,ANAND BHADAURIYA,Samajwadi Party,4449,Other,Result Declared,REKHA VERMA,Bharatiya Janata Party
+29,Mumbai North Central,GAIKWAD VARSHA EKNATH,Indian National Congress,16514,INC,Result Declared,ADV UJWAL NIKAM,Bharatiya Janata Party
+29,NAGAPATTINAM,SELVARAJ V,Communist Party of India,208957,Other,Result Declared,DR SURSITH SANKAR G,All India Anna Dravida Munnetra Kazhagam
+29,Nalanda,KAUSHALENDRA KUMAR,Janata Dal (United),169114,Other,Result Declared,DR. SANDEEP SAURAV,Communist Party of India (Marxist-Leninist) (Liberation)
+30,Mumbai South Central,ANIL YESHWANT DESAI,Shiv Sena (Uddhav Balasaheb Thackrey),53384,Other,Result Declared,RAHUL RAMESH SHEWALE,Shiv Sena
+30,Patna Sahib,RAVI SHANKAR PRASAD,Bharatiya Janata Party,153846,BJP,Result Declared,ANSHUL AVIJIT,Indian National Congress
+30,Sitapur,RAKESH RATHOR,Indian National Congress,89641,INC,Result Declared,RAJESH VERMA,Bharatiya Janata Party
+30,Tamluk,ABHIJIT GANGOPADHYAY,Bharatiya Janata Party,77733,BJP,Result Declared,DEBANGSHU BHATTACHARYA,All India Trinamool Congress
+30,THANJAVUR,MURASOLI S,Dravida Munnetra Kazhagam,319583,Other,Result Declared,SIVANESAN P,Desiya Murpokku Dravida Kazhagam
+31,Hardoi,JAI PRAKASH,Bharatiya Janata Party,27856,BJP,Result Declared,USHA VERMA,Samajwadi Party
+31,Kanthi,ADHIKARI SOUMENDU,Bharatiya Janata Party,47764,BJP,Result Declared,UTTAM BARIK SON OF LATE BIRENDRA BARIK,All India Trinamool Congress
+31,Mumbai South,ARVIND GANPAT SAWANT,Shiv Sena (Uddhav Balasaheb Thackrey),52673,Other,Result Declared,YAMINI YASHWANT JADHAV,Shiv Sena
+31,Patliputra,MISHA BHARTI,Rashtriya Janata Dal,85174,Other,Result Declared,RAM KRIPAL YADAV,Bharatiya Janata Party
+31,SIVAGANGA,KARTI P CHIDAMBARAM,Indian National Congress,205664,INC,Result Declared,XAVIERDASS A,All India Anna Dravida Munnetra Kazhagam
+32,Arrah,SUDAMA PRASAD,Communist Party of India (Marxist-Leninist) (Liberation),59808,Other,Result Declared,R. K. SINGH,Bharatiya Janata Party
+32,Ghatal,ADHIKARI DEEPAK (DEV),All India Trinamool Congress,182868,Other,Result Declared,DR. HIRANMOY CHATTOPADHYAYA,Bharatiya Janata Party
+32,MADURAI,VENKATESAN S,Communist Party of India (Marxist),209409,Other,Result Declared,RAAMA SREENIVASAN,Bharatiya Janata Party
+32,Misrikh,ASHOK KUMAR RAWAT,Bharatiya Janata Party,33406,BJP,Result Declared,SANGITA RAJVANSHI,Samajwadi Party
+32,Raigad,TATKARE SUNIL DATTATREY,Nationalist Congress Party,82784,Other,Result Declared,ANANT GEETE,Shiv Sena (Uddhav Balasaheb Thackrey)
+33,Buxar,SUDHAKAR SINGH,Rashtriya Janata Dal,30091,Other,Result Declared,MITHILESH TIWARI,Bharatiya Janata Party
+33,Jhargram,KALIPADA SAREN (KHERWAL),All India Trinamool Congress,174048,Other,Result Declared,DR. PRANAT TUDU,Bharatiya Janata Party
+33,Maval,SHRIRANG APPA CHANDU BARNE,Shiv Sena,96615,Other,Result Declared,SANJOG BHIKU WAGHERE PATIL,Shiv Sena (Uddhav Balasaheb Thackrey)
+33,THENI,THANGA TAMILSELVAN,Dravida Munnetra Kazhagam,278825,Other,Result Declared,TTV DHINAKARAN,Amma Makkal Munnettra Kazagam
+33,Unnao,SWAMI SACHCHIDANAND HARI SAKSHI,Bharatiya Janata Party,35818,BJP,Result Declared,ANNU TANDON,Samajwadi Party
+34,Medinipur,JUNE MALIAH,All India Trinamool Congress,27191,Other,Result Declared,AGNIMITRA PAUL,Bharatiya Janata Party
+34,Mohanlalganj,R.K. CHAUDHARY,Samajwadi Party,70292,Other,Result Declared,KAUSHAL KISHORE,Bharatiya Janata Party
+34,Pune,MURLIDHAR MOHOL,Bharatiya Janata Party,123038,BJP,Result Declared,DHANGEKAR RAVINDRA HEMRAJ,Indian National Congress
+34,Sasaram,MANOJ KUMAR,Indian National Congress,19157,INC,Result Declared,SHIVESH KUMAR,Bharatiya Janata Party
+34,VIRUDHUNAGAR,MANICKAM TAGORE B,Indian National Congress,4379,INC,Result Declared,VIJAYAPRABHAKARAN V,Desiya Murpokku Dravida Kazhagam
+35,Baramati,SUPRIYA SULE,Nationalist Congress Party – Sharadchandra Pawar,158333,Other,Result Declared,SUNETRA AJITDADA PAWAR,Nationalist Congress Party
+35,Karakat,RAJA RAM SINGH,Communist Party of India (Marxist-Leninist) (Liberation),105858,Other,Result Declared,PAWAN SINGH,Independent
+35,Lucknow,RAJ NATH SINGH,Bharatiya Janata Party,135159,BJP,Result Declared,RAVIDAS MEHROTRA,Samajwadi Party
+35,Purulia,JYOTIRMAY SINGH MAHATO,Bharatiya Janata Party,17079,BJP,Result Declared,SHANTIRAM MAHATO,All India Trinamool Congress
+35,RAMANATHAPURAM,NAVASKANI K,Indian Union Muslim League,166782,Other,Result Declared,PANNEERSELVAM O S/O OTTAKARATHEVAR,Independent
+36,Bankura,ARUP CHAKRABORTY,All India Trinamool Congress,32778,Other,Result Declared,DR. SUBHAS SARKAR,Bharatiya Janata Party
+36,Jahanabad,SURENDRA PRASAD YADAV,Rashtriya Janata Dal,142591,Other,Result Declared,CHANDESHWAR PRASAD,Janata Dal (United)
+36,Rae Bareli,RAHUL GANDHI,Indian National Congress,390030,INC,Result Declared,DINESH PRATAP SINGH,Bharatiya Janata Party
+36,Shirur,DR. AMOL RAMSING KOLHE,Nationalist Congress Party – Sharadchandra Pawar,140951,Other,Result Declared,ADHALRAO SHIVAJI DATTATREY,Nationalist Congress Party
+36,THOOTHUKKUDI,KANIMOZHI KARUNANIDHI,Dravida Munnetra Kazhagam,392738,Other,Result Declared,SIVASAMY VELUMANI R,All India Anna Dravida Munnetra Kazhagam
+37,Ahmednagar,NILESH DNYANDEV LANKE,Nationalist Congress Party – Sharadchandra Pawar,28929,Other,Result Declared,DR. SUJAY RADHAKRISHNA VIKHEPATIL,Bharatiya Janata Party
+37,Amethi,KISHORI LAL,Indian National Congress,167196,INC,Result Declared,SMRITI IRANI,Bharatiya Janata Party
+37,Aurangabad,ABHAY KUMAR SINHA,Rashtriya Janata Dal,79111,Other,Result Declared,SUSHIL KUMAR SINGH,Bharatiya Janata Party
+37,Bishnupur,KHAN SAUMITRA,Bharatiya Janata Party,5567,BJP,Result Declared,SUJATA MONDAL,All India Trinamool Congress
+37,TENKASI,DR RANI SRI KUMAR,Dravida Munnetra Kazhagam,196199,Other,Result Declared,DR K KRISHNASAMY,All India Anna Dravida Munnetra Kazhagam
+38,Bardhaman Purba,DR. SHARMILA SARKAR,All India Trinamool Congress,160572,Other,Result Declared,ASIM KUMAR SARKAR,Bharatiya Janata Party
+38,Gaya,JITAN RAM MANJHI,Hindustani Awam Morcha (Secular),101812,Other,Result Declared,KUMAR SARVJEET,Rashtriya Janata Dal
+38,Shirdi,BHAUSAHEB RAJARAM WAKCHAURE,Shiv Sena (Uddhav Balasaheb Thackrey),50529,Other,Result Declared,LOKHANDE SADASHIV KISAN,Shiv Sena
+38,Sultanpur,RAMBHUAL NISHAD,Samajwadi Party,43174,Other,Result Declared,MANEKA SANJAY GANDHI,Bharatiya Janata Party
+38,TIRUNELVELI,ROBERT BRUCE C,Indian National Congress,165620,INC,Result Declared,NAINAR NAGENTHRAN,Bharatiya Janata Party
+39,Bardhaman-Durgapur,AZAD KIRTI JHA,All India Trinamool Congress,137981,Other,Result Declared,DILIP GHOSH,Bharatiya Janata Party
+39,Beed,BAJRANG MANOHAR SONWANE,Nationalist Congress Party – Sharadchandra Pawar,6553,Other,Result Declared,PANKAJA GOPINATHRAO MUNDE,Bharatiya Janata Party
+39,KANNIYAKUMARI,VIJAYAKUMAR (Alias) VIJAY VASANTH,Indian National Congress,179907,INC,Result Declared,RADHAKRISHNAN P,Bharatiya Janata Party
+39,Nawada,VIVEK THAKUR,Bharatiya Janata Party,67670,BJP,Result Declared,SHRAWAN KUMAR,Rashtriya Janata Dal
+39,Pratapgarh,SHIV PAL SINGH PATEL (DR. S P SINGH),Samajwadi Party,66206,Other,Result Declared,SANGAM LAL GUPTA,Bharatiya Janata Party
+40,Asansol,SHATRUGHAN PRASAD SINHA,All India Trinamool Congress,59564,Other,Result Declared,SURENDRAJEET SINGH AHLUWALIA,Bharatiya Janata Party
+40,Farrukhabad,MUKESH RAJPUT,Bharatiya Janata Party,2678,BJP,Result Declared,DR. NAVAL KISHOR SHAKYA,Samajwadi Party
+40,Jamui,ARUN BHARTI,Lok Janshakti Party(Ram Vilas),112482,Other,Result Declared,ARCHANA KUMARI,Rashtriya Janata Dal
+40,Osmanabad,OMPRAKASH BHUPALSINH ALIAS PAVAN RAJENIMBALKAR,Shiv Sena (Uddhav Balasaheb Thackrey),329846,Other,Result Declared,ARCHANA RANAJAGJITSINH PATIL,Nationalist Congress Party
+41,Bolpur,ASIT KUMAR MAL,All India Trinamool Congress,327253,Other,Result Declared,PIYA SAHA,Bharatiya Janata Party
+41,Etawah,JITENDRA KUMAR DOHARE,Samajwadi Party,58419,Other,Result Declared,DR RAM SHANKAR KATHERIA,Bharatiya Janata Party
+41,Latur,DR. KALGE SHIVAJI BANDAPPA,Indian National Congress,61881,INC,Result Declared,SUDHAKAR TUKARAM SHRANGARE,Bharatiya Janata Party
+42,Birbhum,SATABDI ROY,All India Trinamool Congress,197650,Other,Result Declared,DEBTANU BHATTACHARYA,Bharatiya Janata Party
+42,Kannauj,AKHILESH YADAV,Samajwadi Party,170922,Other,Result Declared,SUBRAT PATHAK,Bharatiya Janata Party
+42,Solapur,PRANITI SUSHILKUMAR SHINDE,Indian National Congress,74197,INC,Result Declared,RAM VITTHAL SATPUTE,Bharatiya Janata Party
+43,Kanpur,RAMESH AWASTHI,Bharatiya Janata Party,20968,BJP,Result Declared,ALOK MISRA,Indian National Congress
+43,Madha,MOHITE-PATIL DHAIRYASHEEL RAJSINH,Nationalist Congress Party – Sharadchandra Pawar,120837,Other,Result Declared,RANJEETSINGH HINDURAO NAIK NIMBALKAR,Bharatiya Janata Party
+44,Akbarpur,DEVENDRA SINGH ALIAS BHOLE SINGH,Bharatiya Janata Party,44345,BJP,Result Declared,RAJARAM PAL,Samajwadi Party
+44,Sangli,VISHAL (DADA) PRAKASHBAPU PATIL,Independent,100053,Other,Result Declared,SANJAY (KAKA) PATIL,Bharatiya Janata Party
+45,Jalaun,NARAYAN DAS AHIRWAR,Samajwadi Party,53898,Other,Result Declared,BHANU PRATAP SINGH VERMA,Bharatiya Janata Party
+45,Satara,SHRIMANT CHH UDAYANRAJE PRATAPSINHAMAHARAJ BHONSLE,Bharatiya Janata Party,32771,BJP,Result Declared,SHASHIKANT JAYVANTRAO SHINDE,Nationalist Congress Party – Sharadchandra Pawar
+46,Jhansi,ANURAG SHARMA,Bharatiya Janata Party,102614,BJP,Result Declared,"PRADEEP JAIN ""ADITYA""",Indian National Congress
+46,Ratnagiri- Sindhudurg,NARAYAN TATU RANE,Bharatiya Janata Party,47858,BJP,Result Declared,VINAYAK BHAURAO RAUT,Shiv Sena (Uddhav Balasaheb Thackrey)
+47,HAMIRPUR,AJENDRA SINGH LODHI,Samajwadi Party,2629,Other,Result Declared,KUNWAR PUSHPENDRA SINGH CHANDEL,Bharatiya Janata Party
+47,Kolhapur,CHHATRAPATI SHAHU SHAHAJI,Indian National Congress,154964,INC,Result Declared,SANJAY SADASHIVRAO MANDLIK,Shiv Sena
+48,Banda,KRISHNA DEVI SHIVSHANKER PATEL,Samajwadi Party,71210,Other,Result Declared,R. K. SINGH PATEL,Bharatiya Janata Party
+48,Hatkanangale,DHAIRYASHEEL SAMBHAJIRAO MANE,Shiv Sena,13426,Other,Result Declared,SATYAJEET BABASAHEB PATIL (AABA) SARUDKAR,Shiv Sena (Uddhav Balasaheb Thackrey)
+49,Fatehpur,NARESH CHANDRA UTTAM PATEL,Samajwadi Party,33199,Other,Result Declared,NIRANJAN JYOTI,Bharatiya Janata Party
+50,Kaushambi,PUSHPENDRA SAROJ,Samajwadi Party,103944,Other,Result Declared,VINOD KUMAR SONKAR,Bharatiya Janata Party
+51,Phulpur,PRAVEEN PATEL,Bharatiya Janata Party,4332,BJP,Result Declared,AMAR NATH SINGH MAURYA,Samajwadi Party
+52,Allahabad,UJJWAL RAMAN SINGH,Indian National Congress,58795,INC,Result Declared,NEERAJ TRIPATHI,Bharatiya Janata Party
+53,Barabanki,TANUJ PUNIA,Indian National Congress,215704,INC,Result Declared,RAJRANI RAWAT,Bharatiya Janata Party
+54,Faizabad,AWADHESH PRASAD,Samajwadi Party,54567,Other,Result Declared,LALLU SINGH,Bharatiya Janata Party
+55,Ambedkar Nagar,LALJI VERMA,Samajwadi Party,137247,Other,Result Declared,RITESH PANDEY,Bharatiya Janata Party
+56,Baharaich,ANAND KUMAR,Bharatiya Janata Party,64227,BJP,Result Declared,RAMESH CHANDRA,Samajwadi Party
+57,Kaiserganj,KARAN BHUSHAN SINGH,Bharatiya Janata Party,148843,BJP,Result Declared,BHAGAT RAM,Samajwadi Party
+58,Shrawasti,RAM SHIROMANI VERMA,Samajwadi Party,76673,Other,Result Declared,SAKET MISRA,Bharatiya Janata Party
+59,Gonda,KIRTIVARDHAN SINGH,Bharatiya Janata Party,46224,BJP,Result Declared,SHREYA VERMA,Samajwadi Party
+60,Domariyaganj,JAGDAMBIKA PAL,Bharatiya Janata Party,42728,BJP,Result Declared,BHISHMA SHANKAR ALIAS KUSHAL TIWARI,Samajwadi Party
+61,Basti,RAM PRASAD CHAUDHARY,Samajwadi Party,100994,Other,Result Declared,HARISH CHANDRA ALIAS HARISH DWIVEDI,Bharatiya Janata Party
+62,Sant Kabir Nagar,LAXMIKANT PAPPU NISHAD,Samajwadi Party,92170,Other,Result Declared,PRAVIN KUMAR NISHAD,Bharatiya Janata Party
+63,Maharajganj,PANKAJ CHAUDHARY,Bharatiya Janata Party,35451,BJP,Result Declared,VIRENDRA CHAUDHARY,Indian National Congress
+64,Gorakhpur,RAVINDRA SHUKLA ALIAS RAVI KISHAN,Bharatiya Janata Party,103526,BJP,Result Declared,KAJAL NISHAD,Samajwadi Party
+65,Kushi Nagar,VIJAY KUMAR DUBAY,Bharatiya Janata Party,81790,BJP,Result Declared,AJAY PRATAP SINGH URF PINTU SAITHWAR,Samajwadi Party
+66,Deoria,SHASHANK MANI,Bharatiya Janata Party,34842,BJP,Result Declared,AKHILESH PRATAP SINGH,Indian National Congress
+67,Bansgaon,KAMLESH PASWAN,Bharatiya Janata Party,3150,BJP,Result Declared,SADAL PRASAD,Indian National Congress
+68,Lalganj,DAROGA PRASAD SAROJ,Samajwadi Party,115023,Other,Result Declared,NEELAM SONKER,Bharatiya Janata Party
+69,Azamgarh,DHARMENDRA YADAV,Samajwadi Party,161035,Other,Result Declared,DINESH LAL YADAV “NIRAHUA”,Bharatiya Janata Party
+70,Ghosi,RAJEEV RAI,Samajwadi Party,162943,Other,Result Declared,DR. ARVIND RAJBHAR,Suheldev Bharatiya Samaj Party
+71,Salempur,RAMASHANKAR RAJBHAR,Samajwadi Party,3573,Other,Result Declared,RAVINDAR KUSHAWAHA,Bharatiya Janata Party
+72,Ballia,SANATAN PANDEY,Samajwadi Party,43384,Other,Result Declared,NEERAJ SHEKHAR,Bharatiya Janata Party
+73,Jaunpur,BABU SINGH KUSHWAHA,Samajwadi Party,99335,Other,Result Declared,KRIPASHANKAR SINGH,Bharatiya Janata Party
+74,Machhlishahr,PRIYA SAROJ,Samajwadi Party,35850,Other,Result Declared,BHOLANATH (B.P. SAROJ),Bharatiya Janata Party
+75,Ghazipur,AFZAL ANSARI,Samajwadi Party,124861,Other,Result Declared,PARS NATH RAI,Bharatiya Janata Party
+76,Chandauli,BIRENDRA SINGH,Samajwadi Party,21565,Other,Result Declared,DR. MAHENDRA NATH PANDEY,Bharatiya Janata Party
+77,Varanasi,NARENDRA MODI,Bharatiya Janata Party,152513,BJP,Result Declared,AJAY RAI,Indian National Congress
+78,Bhadohi,DR. VINOD KUMAR BIND,Bharatiya Janata Party,44072,BJP,Result Declared,LALITESHPATI TRIPATHI,All India Trinamool Congress
+79,Mirzapur,ANUPRIYA PATEL,Apna Dal (Soneylal),37810,Other,Result Declared,RAMESH CHAND BIND,Samajwadi Party
+80,Robertsganj,CHHOTELAL,Samajwadi Party,129234,Other,Result Declared,RINKI SINGH,Apna Dal (Soneylal)
